@@ -1,4 +1,4 @@
-# 论道（闲的没事干，别当真）
+#   论道
 - <span style='color:#ff4000;'>道始于一</span>
 - <span style='color:#0040ff;'>一而不生</span>
 - <span style='color:#bf00ff;'>故分而为阴阳</span>
